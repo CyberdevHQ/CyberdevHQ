@@ -4,7 +4,7 @@
 
 <hr>
 
-# 👋 Hello, Fellow Tech Enthusiasts!
+# 👋 Hello, Fellow Cybersecurity Enthusiasts!
 
 I'm a Full Stack Web Developer with a burning passion for cybersecurity, ethical hacking and digital forensics. At the intersection of web development and security, I'm crafting a path that combines creative problem-solving with robust security practices.
 
