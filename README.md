@@ -6,49 +6,52 @@
 
 # 👋 Hello, Fellow Cybersecurity Enthusiasts!
 
-I'm a Full Stack Web Developer with a burning passion for cybersecurity, ethical hacking and digital forensics. At the intersection of web development and security, I'm crafting a path that combines creative problem-solving with robust security practices.
+I'm a **Full Stack Web Developer** and **Cybersecurity Enthusiast** with a mission to master both **offensive and defensive security**. I believe that to build truly secure systems, one must think like an attacker, defend like a blue teamer, and investigate like a forensic analyst. 
 
 ## 💡 Vision & Drive
 
-My journey is driven by the belief that great software must be both powerful and secure. I'm constantly pushing my boundaries, learning new technologies, and exploring the intricate world of cybersecurity. my goal is to become a highly skilled cybersecurity professional, combining offensive security with investigative forensics to protect digital spaces. Furthermore, I aim to help people secure their data from malicious hackers, scammers and join hands with other Ethical Hackers and security conscious people to secure the society and our world in general.
+My journey is driven by the belief that **security is a continuous battle** between attackers and defenders. To truly secure digital spaces, I aim to specialize in:
+- **Ethical Hacking & Penetration Testing** (Offensive Security)
+- **Digital Forensics & Incident Response** (Defensive Security & Investigation)
+- **Linux Administration & System Hardening** (Strengthening Infrastructure)
+
+By mastering these fields, my goal is to **identify vulnerabilities, defend against cyber threats, investigate security incidents, and fortify systems** to create a more resilient cyberspace.
 
 ## 🛡️ Security Journey
 
-Currently deep-diving into ethical hacking, I'm learning and honing my skills through:
-- Cisco Ethical Hacking course
-- Going through Ethical Hacking related books
-- Practical penetration testing exercises
-- Web application security assessments
-- Network security analysis
-- Vulnerability research and responsible disclosure
-- Joining course related conferences and programs etc
+Currently, I am focused on learning and strengthening my cybersecurity skills through:
+- **Ethical Hacking & Penetration Testing** (Exploiting and securing systems)
+- **Network & Web Application Security** (Understanding attack vectors & mitigation)
+- **Digital Forensics & Incident Response** (Tracing attackers & analyzing breaches)
+- **Linux Administration & Hardening** (Strengthening system defenses)
+- **Red vs. Blue Team Simulations** (Understanding both attack and defense strategies)
 
-Each challenge I tackle strengthens my understanding of both offense and defense in cybersecurity, making me a more security-conscious developer.
+Every challenge I take on brings me closer to becoming a **Purple Team Expert**—combining **offensive, defensive, and forensic security** to fight against cyber threats effectively.
 
 ## 🔐 Current Project: Password Manager App (paused for now)
 
-I'm currently working on CycleCipher - a project that's reimagining password management for the modern web. This isn't just another password manager; it's my vision of how we can make robust security accessible and user-friendly.
+I'm currently working on **CycleCipher**—a project focused on making **password security intuitive and unbreakable**. This isn't just another password manager; it's my vision of **how security should be both powerful and user-friendly**.
 
-CycleCipher combines cutting-edge encryption with intuitive design, aiming to solve the eternal struggle between security and convenience. Stay tuned for updates as this project evolves!
+Stay tuned for updates!
 
 ## 🚀 Always Learning, Always Growing
 
-Every line of code I write and every security challenge I tackle is a step toward my goal of mastering both development and security. I believe in transparency, continuous learning, and sharing knowledge with the community.
+Each **line of code, exploit tested, vulnerability patched, and forensic trace analyzed** brings me closer to my goal. I believe in **continuous learning, hands-on experience, and knowledge-sharing** to strengthen cybersecurity worldwide.
 
-Let's connect and build a more secure digital future together! Feel free to explore my repositories and reach out for collaborations.
+Let's connect and collaborate to build a more **secure digital world**!
 
 ---
 ### *"Security is not a product, but a process." - Bruce Schneier*
 
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CyberdevHQ&label=Profile%20views&color=0e75b6&style=flat" alt="CyberdevHQ" /> </p>
- 
 
-- 🌱 Currently learning **Ethical Hacking, Python programming**
 
-- 👯 looking to collaborate on **Webs and Cybersecurity projects**
+- 🌱 Currently learning **Ethical Hacking, Digital Forensics, Linux Security**
 
-- 📫 How to reach me **winnerkalu1303@gmail.com**
+- 👯 looking to collaborate on **Web and Cybersecurity projects**
+
+- 💌 How to reach me **winnerkalu1303@gmail.com**
 
 - ⚡ Fun fact **When I'm not coding, I'm probably trying to hack my own projects (legally, of course! 🎯)**
 <hr>
@@ -64,27 +67,18 @@ Let's connect and build a more secure digital future together! Feel free to expl
 <div align="left">
  
  # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 <hr>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kaluumah&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kaluumah&theme=dark&hide_border=false)<br/>
-
-
-
-
+![](https://github-readme-stats.vercel.app/api?username=CyberdevHQ&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=CyberdevHQ&theme=dark&hide_border=false)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=CyberdevHQ&icon=0&color=0)](https://visitcount.itsvg.in)
 
- 
 </div>
-
-
 </div>
-
