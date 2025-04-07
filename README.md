@@ -1,6 +1,6 @@
 <div> 
  
-![image alt](https://github.com/CyberdevHQ/CyberdevHQ/blob/a8697c2f04b8db2e770c33289e6bc7ce892d76af/Orange%20Modern%20Technology%20LinkedIn%20Banner%20-%202.png)
+![image alt](https://github.com/CyberdevHQ/CyberdevHQ/blob/d68ff6ffcfbd2406e2e622f0e7d568f56acb2015/1500x500.jpeg)
 
 <hr>
 
