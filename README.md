@@ -45,7 +45,7 @@ Let's connect and collaborate to build a more **secure digital world**!
 
 - looking to collaborate on **Cybersecurity projects**
 
-- How to reach me **c.winner1303@gmail.com**
+- How to reach me **cyberdevhq@proton.me**
 <hr>
 
 <h3 >Connect with me:</h3>
