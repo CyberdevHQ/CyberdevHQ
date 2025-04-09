@@ -23,7 +23,7 @@ Currently, I am focused on learning and strengthening my cybersecurity skills th
 - **Digital Forensics**: Evidence acquisition, artifact analysis, malware behavior tracking, incident reconstruction
 - **Evolving Toolkit**: Continuously expanding across mobile hacking, hardware exploitation, and specialized security domains
 
-Every challenge I take on brings me closer to becoming a **Red Team Expert** and an **Expert Grey Hat Hacker**. I believe the grey hat methodology is best approach companies, society etc should welcome and see as the best way to reach the top security layer.
+Every challenge I take on brings me closer to becoming a **Red Team Expert** and an **Expert Grey Hat Hacker**. I believe the grey hat methodology is the best approach companies, society etc should welcome and see as the best way to reach the top security layer.
 
 ## 🎯 Mission
 
