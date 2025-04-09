@@ -8,7 +8,7 @@
 
 Welcome to my domain
 
-I'm Kalu, a Grey Hat Security Enthusiast pushing the boundaries of offensive security and digital forensics. I operate in the shadows to expose vulnerabilities before they can be exploited by those with malicious intent.
+I'm CyberDev, a Grey Hat Security Enthusiast pushing the boundaries of offensive security and digital forensics. I operate in the shadows to expose vulnerabilities before they can be exploited by those with malicious intent.
 
 ## 🔮 My Philosophy
 
