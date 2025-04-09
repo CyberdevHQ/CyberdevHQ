@@ -48,14 +48,6 @@ Let's connect and collaborate to build a more **secure digital world**!
 - How to reach me **cyberdevhq@proton.me**
 <hr>
 
-<h3 >Connect with me:</h3>
-<p>
-<a align="left" href="https://twitter.com/CyberdevHQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thecyberdevhq" height="30" width="40" /></a>
-<a align="left" href="https://fb.com/masterwinner4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="CyberdevHQ" height="30" width="40" /></a>
-<a align="left" href="https://instagram.com/@d.e.v.l.i.f.e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@cyber.devhq" height="30" width="40" /></a>
-</p>
-<hr>
-
 <div align="left">
  
  # 💻 Tech Stack:
