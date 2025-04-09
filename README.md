@@ -4,7 +4,7 @@
 
 <hr>
 
-#  Aspiring Offensive Security & Digital Forensics
+#   Offensive Security & Digital Forensics
 
 Welcome to my domain
 
