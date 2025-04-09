@@ -29,7 +29,7 @@ Every challenge I take on brings me closer to becoming a **Red Team Expert** and
 
 To become the Shadow Monarch of cybersecurity—an unstoppable force in offensive security who can infiltrate any digital fortress, understand its weaknesses, and then fortify it against all comers.
 
-## 🚀 Always Learning, Always Growing & Philosophy
+## 🚀 Always Learning, Always Growing
 
 Each **line of code, exploit tested, vulnerability patched, and forensic trace analyzed** brings me closer to my goal. I believe in **continuous learning, hands-on experience, and knowledge-sharing** to strengthen cybersecurity worldwide.
 
