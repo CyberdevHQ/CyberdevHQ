@@ -25,10 +25,6 @@ Currently, I am focused on learning and strengthening my cybersecurity skills th
 
 Every challenge I take on brings me closer to becoming a **Red Team Expert** and an **Expert Grey Hat Hacker**. I believe the grey hat methodology is the best approach companies, society etc should welcome and see as the best way to reach the top security layer.
 
-## 🎯 Mission
-
-To become the Shadow Monarch of cybersecurity—an unstoppable force in offensive security who can infiltrate any digital fortress, understand its weaknesses, and then fortify it against all comers.
-
 ## 🚀 Always Learning, Always Growing
 
 Each **line of code, exploit tested, vulnerability patched, and forensic trace analyzed** brings me closer to my goal. I believe in **continuous learning, hands-on experience, and knowledge-sharing** to strengthen cybersecurity worldwide.
